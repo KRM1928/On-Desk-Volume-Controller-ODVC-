@@ -1,2 +1,2 @@
-# On-Desk-Volume-Macropad-ODVM-
-A macropad that has potensiometers duble screens and more edit
+# On-Desk-Volume-Controller-ODVC-
+A controller that has potensiometers duble screens and more edit
